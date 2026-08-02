@@ -6,7 +6,7 @@
  <details>
         <summary>$\color{#FFFFFF}{\textsf{Our mc medias}}$</summary>
    <br>
-   <sub>mc youtubers:</sub> <i>Joebeppo, Thr1te, Nemesys.</i>
+   <sub>mc youtubers:</sub> <i>Joebeppo, Thr1te, Nemesys.,MugmV2, TheobaldTheBird, ClownPierce</i>
    <br><br>
         mc horror mods
    <br><br>
