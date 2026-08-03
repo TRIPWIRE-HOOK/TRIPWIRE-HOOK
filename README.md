@@ -4,7 +4,7 @@
     <tr>
       <th>
  <details>
-        <summary>$\color{#FFFFFF}{\textsf{Our mc medias}}$</summary>
+        <summary>$\color{#FFFFFF}{\textsf{OUR MC MEDIAS}}$</summary>
    <br>
    <sub>mc youtubers:</sub> <i>Joebeppo, Thr1te, Nemesys., MugmV2, TheobaldTheBird, ClownPierce, Planetlord</i>
    <br><br>
@@ -17,3 +17,24 @@
    <sub>mc arg:</sub> <i>something doesn't want me to leave, searching for a world that doesn't exist, matchbox</i>
    <br><br>
    i also love <i>"100/1000 days hardcore survival"</i> videos.
+ </details>
+      </th>
+    </tr>
+  </table>
+  <br>
+  <table border="0" align="left">
+    <tr>
+      <th>
+ <details>
+        <summary>$\color{#FFFFFF}{\textsf{ABOUT}}$</summary>
+        I am mostly sitting alone, at the mcyt hill.
+        <br>
+        I do not mind cuddles and hugs; if not, i encourage it!
+        <br>
+        Please feel free to talk to me if you share my mcyt/mc interests.
+        <br>
+        I love talking to people and befriending people, so don't feel shy at all.
+ </details>
+      </th>
+    </tr>
+  </table>
