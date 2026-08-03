@@ -21,8 +21,7 @@
       </th>
     </tr>
   </table>
-  <br>
-  <table border="0" align="left">
+  <table border="0">
     <tr>
       <th>
  <details>
