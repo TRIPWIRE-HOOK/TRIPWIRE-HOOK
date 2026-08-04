@@ -26,13 +26,18 @@
       <th>
  <details>
         <summary>$\color{#FFFFFF}{\textsf{ABOUT}}$</summary>
-        I am mostly sitting alone, at the mcyt hill.
+   I am mostly sitting alone, at the mcyt hill. If not i am with my friends!
         <br>
         I do not mind cuddles and hugs; if not, i encourage it!
         <br>
         Please feel free to talk to me if you share my mcyt/mc interests.
         <br>
-        I love talking to people and befriending people, so don't feel shy at all.
+        I love talking to people and befriending people, so don't feel shy at all.<br>
+   <h5>DNI</h5>
+   Boundary breakers.<br>
+   Heavy Judelow fans.<br>
+   If you cause drama for no reason.<br>
+   If you are toxic.
  </details>
       </th>
     </tr>
