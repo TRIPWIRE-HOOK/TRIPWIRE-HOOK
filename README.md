@@ -6,7 +6,7 @@
  <details>
         <summary>$\color{#FFFFFF}{\textsf{OUR MC MEDIAS}}$</summary>
    <br>
-   <sub>mc youtubers:</sub> <i>Joebeppo, Thr1te, Nemesys., MugmV2, TheobaldTheBird, ClownPierce, Planetlord, Wifies, Minutetech</i>
+   <sub>mcyt:</sub> <i>Joebeppo, Thr1te, Nemesys., MugmV2, TheobaldTheBird, ClownPierce, Planetlord, Wifies, Minutetech</i>
    <br><br>
         mc horror mods
    <br><br>
