@@ -8,7 +8,7 @@
  <details>
         <summary>$\color{#0B001C}{\textsf{MEDIAS⠀ ⠀ ⠀ ⠀♱ ⠀}}$</summary>
    <br>
-   <sub>${\text{\color{#82000B} mcyt:　\color{#d62620} Joebeppo, Thr1te, Nemesys., MugmV2, TheobaldTheBird, ClownPierce, Planetlord, Wifies, Minutetech }}$</sub>
+   <sub>${\text{\color{#82000B} mcyt:　\color{#d62620} Mugm, TheobaldTheBird, ClownPierce, Planetlord, Wifies, Minutetech, Dol9hin, Judelow }}$</sub>
    <br><br>
         <sub>${\text{\color{#d62620} mc horror mods }}$</sub>
    <br><br>
