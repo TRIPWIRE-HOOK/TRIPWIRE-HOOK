@@ -34,7 +34,10 @@
         <br>
         <sub>${\text{\color{#d62620} Please feel free to　\color{#b30135} talk to me if　\color{#800123} you share my　\color{#690149} mcyt/mc interests. }}$</sub>
         <br>
-        <sub>${\text{\color{#d62620} I love　\color{#b30135} talking with/befriending　\color{#800123} people,　\color{#690149} so don't feel shy at all.}}$</sub>
+        <sub>${\text{\color{#d62620} I love　\color{#b30135} talking with/befriending　\color{#800123} people,　\color{#690149} so don't feel shy at all. }}$</sub>
+   <br>
+   <sub>${\text{\color{#d62620} im　\color{#b30135} offtab　\color{#800123} half of　\color{#690149} the time }}$</sub>
+   <br>
    <h5>$\color{#82000B}{\textsf{ DNI }}$</h5>
    <sub>${\text{\color{#d62620} Boundary breakers. }}$</sub><br>
    <sub>${\text{\color{#b30135} Heavy Judelow fans. }}$</sub><br>
