@@ -1,5 +1,6 @@
 <p align="center"><a href="https://visitorbadge.io/status?path=TRIPWIRE-HOOK"><img src="https://api.visitorbadge.io/api/visitors?path=TRIPWIRE-HOOK&label=%E3%85%A4%E3%85%A4Immortal%20Killing%E3%85%A4%E3%85%A4&labelColor=%23400500&countColor=%23426b23&style=flat-square&labelStyle=upper" /></a></p>
 <img align="left" width="50%" src="https://github.com/user-attachments/assets/66ab69e1-6bd1-424a-af5d-59ecdf71f3f6" />
+<br><sub><a href="https://github.com/KALININGRAD-OBLAST">Main</a></sub>
 <br><br>
 <p align="center">
   <img width="27%" src="https://github.com/user-attachments/assets/8cff6d41-386e-43d1-a168-acd0076a475e" /></p>
