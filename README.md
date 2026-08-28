@@ -2,11 +2,11 @@
 <img align="left" width="50%" src="https://github.com/user-attachments/assets/66ab69e1-6bd1-424a-af5d-59ecdf71f3f6" />
 <br><br>
 <p align="center">
-  <img width="23%" src="https://github.com/user-attachments/assets/8cff6d41-386e-43d1-a168-acd0076a475e" /></p>
+  <img width="27%" src="https://github.com/user-attachments/assets/8cff6d41-386e-43d1-a168-acd0076a475e" /></p>
 <p align="center">
 <br>
   $\color{#227d23}{\textsf{A}}\color{#3b612a}{\textsf{R}}\color{#404722}{\textsf{C}}\color{#382515}{\textsf{H}}\color{#3d170b}{\textsf{I}}\color{#4f0900}{\textsf{V}}\color{#660202}{\textsf{E}}$
-  <br><br><br>
+  <br><br>
 <sub>${\text{\color{#227d23} I am　\color{#404722} mostly sitting alone,　\color{#382515} at the mcyt hill.　\color{#4f0900} If not i am with my friends! }}$</sub>
       <br>
         <sub>${\text{\color{#227d23} I do not mind　\color{#404722} cuddles and hugs;　\color{#382515}  if not, 　\color{#4f0900} i encourage it! }}$</sub>
